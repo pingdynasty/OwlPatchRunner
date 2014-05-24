@@ -1,6 +1,6 @@
 #include <inttypes.h>
 
-#define FIRMWARE_VERSION             "OwlPatchFirmware Test"
+#define FIRMWARE_VERSION             "OwlPatchRunner Test"
 
 #define GREEN_PATCH                  0
 #define RED_PATCH                    1
